@@ -1,0 +1,6 @@
+langchain-google-genai
+langchain-community
+pinecone
+sentence-transformers
+pandas
+tqdm
