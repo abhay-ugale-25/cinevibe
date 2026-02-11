@@ -1,0 +1,12 @@
+# Python junk
+__pycache__/
+*.pyc
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Dataset Folder
+dataset/
